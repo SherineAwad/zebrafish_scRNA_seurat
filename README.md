@@ -15,5 +15,8 @@
 <img src="figures/Injury_snRNA_cleaneddim8_aldh1a3.png?v=3" alt="aldh1a3" width="33%"><img src="figures/Injury_snRNA_cleaneddim8_aldh1a2.png?v=3" alt="aldh1a2" width="33%"><img src="figures/Injury_snRNA_cleaneddim8_cyp26c1.png?v=3" alt="cyp26c1" width="33%">
 <img src="figures/Injury_snRNA_cleaneddim8_cyp26b1.png?v=3" alt="cyp26b1" width="33%"><img src="figures/Injury_snRNA_cleaneddim8_rargb.png?v=3" alt="rargb" width="33%"><img src="figures/Injury_snRNA_cleaneddim8_rxrab.png?v=3" alt="rxrab" width="33%">
 
+# Package Versions
+
+- **Seurat** version `5.4.0`
 
 
